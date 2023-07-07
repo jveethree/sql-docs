@@ -86,7 +86,7 @@ You create Reporting Services mobile reports (.rsmobile files) in SQL Server Mob
   
      In Report Designer, you cannot browse to a shared data source on the report server. You can create shared data sources as part of a project in Solution Explorer and choose whether to deploy them to a report server. You might choose to use them locally only because of differences in credentials required from your computer or from the report server.  
   
--   **Embedded data source.** Also known as a *report-specific data source*, an embeddeddata source is defined in a report and used only by that report.  
+-   **Embedded data source.** Also known as a *report-specific data source*, an embedded data source is defined in a report and used only by that report.  
   
      An embedded data source is a data connection that is saved in the report definition. Embedded data source connection information can be used only by the report in which it is embedded.  
   
